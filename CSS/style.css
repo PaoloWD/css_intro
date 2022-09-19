@@ -23,11 +23,32 @@ body{
     margin-bottom: 0;
 }
 
-.opaque-text{
+#writtedby_text{
     color: #b3b2b2;
+    font-size: smaller;
+}
+
+#data_text{
+    color: #b3b2b2;
+    font-size: x-small;
 }
 
 #text_booleaner{
     color: #009dd7;
     font-weight: bold;
+}
+
+.photo{
+    font-size: smaller;
+    margin-left: 0;
+    font-style: italic;
+}
+
+.imgs{
+    width: 650px;
+    height: 400px;
+}
+
+#bg_color{
+    background-color: yellow;
 }
