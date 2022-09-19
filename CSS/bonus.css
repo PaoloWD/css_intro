@@ -21,9 +21,11 @@ body{
 #title{
     margin-top: 5px;
     margin-bottom: 0;
+    text-align: center;
 }
 
 .writtedby_text{
+    text-align: center;
     color: #b3b2b2;
     font-size: smaller;
 }
@@ -31,6 +33,7 @@ body{
 #data_text{
     color: #b3b2b2;
     font-size: x-small;
+    text-align: center;
 }
 
 #text_booleaner{
@@ -45,8 +48,8 @@ body{
 }
 
 .imgs{
-    width: 650px;
-    height: 400px;
+    width: 325px;
+    height: 200px;
 }
 
 .bg_color{
@@ -91,4 +94,12 @@ body{
 .footer_imgs{
     width: 150px;
     height: 150px;
+}
+
+.container{
+    height: 100%;
+    width: 75%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
