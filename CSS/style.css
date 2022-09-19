@@ -68,7 +68,11 @@ body{
 }
 
 .color_table{
-    background-color: aqua;
+    background-color: rgb(138, 162, 250);
+}
+
+#color_thead{
+    background-color: #009dd7;
 }
 
 .settima{
