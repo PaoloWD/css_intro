@@ -59,6 +59,7 @@ body{
 
 .table-x{
     width: 100%;
+    border-spacing: 0;
 }
 
 .table-y{
