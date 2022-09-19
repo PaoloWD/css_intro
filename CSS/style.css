@@ -18,12 +18,12 @@ body{
     top: 50%;
 }
 
-#titolo{
+#title{
     margin-top: 5px;
     margin-bottom: 0;
 }
 
-.text_opaco{
+.opaque-text{
     color: #b3b2b2;
 }
 
