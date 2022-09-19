@@ -23,7 +23,7 @@ body{
     margin-bottom: 0;
 }
 
-#writtedby_text{
+.writtedby_text{
     color: #b3b2b2;
     font-size: smaller;
 }
@@ -49,7 +49,7 @@ body{
     height: 400px;
 }
 
-#bg_color{
+.bg_color{
     background-color: yellow;
 }
 
@@ -69,5 +69,21 @@ body{
 
 .color_table{
     background-color: aqua;
-    
+}
+
+.settima{
+    background-image: url(../imgs/settima.webp);
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+.ottava{
+    background-image: url(../imgs/ottava.jpeg);
+    background-size: cover;
+    color: #0000ff;
+}
+
+.footer_imgs{
+    width: 150px;
+    height: 150px;
 }
